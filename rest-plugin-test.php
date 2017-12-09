@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: REST Plugin Test
+GitHub Plugin URI: https://github.com/bayon/rest-plugin-test
 */
 
 defined('ABSPATH') or die("Direct access not allowed");
